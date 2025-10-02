@@ -1,36 +1,104 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "Z:\\sio2\\ap\\demande_conge\\",
+  "WorkspaceRootPath": "C:\\TPGit\\demande_conge\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B75C9DFD-65B0-49A0-A0CD-C6B6FC7E9273}|demande_conge.csproj|z:\\sio2\\ap\\demande_conge\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{B75C9DFD-65B0-49A0-A0CD-C6B6FC7E9273}|demande_conge.csproj|c:\\tpgit\\demande_conge\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B75C9DFD-65B0-49A0-A0CD-C6B6FC7E9273}|demande_conge.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B75C9DFD-65B0-49A0-A0CD-C6B6FC7E9273}|demande_conge.csproj|c:\\tpgit\\demande_conge\\bdd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B75C9DFD-65B0-49A0-A0CD-C6B6FC7E9273}|demande_conge.csproj|solutionrelative:bdd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B75C9DFD-65B0-49A0-A0CD-C6B6FC7E9273}|demande_conge.csproj|C:\\TPGit\\demande_conge\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{B75C9DFD-65B0-49A0-A0CD-C6B6FC7E9273}|demande_conge.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B75C9DFD-65B0-49A0-A0CD-C6B6FC7E9273}|demande_conge.csproj|c:\\tpgit\\demande_conge\\demande_conge.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B75C9DFD-65B0-49A0-A0CD-C6B6FC7E9273}|demande_conge.csproj|solutionrelative:demande_conge.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B75C9DFD-65B0-49A0-A0CD-C6B6FC7E9273}|demande_conge.csproj|c:\\tpgit\\demande_conge\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B75C9DFD-65B0-49A0-A0CD-C6B6FC7E9273}|demande_conge.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
-      "VerticalTabListWidth": 256,
+      "VerticalTabListWidth": 100,
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BDD.cs",
+              "DocumentMoniker": "C:\\TPGit\\demande_conge\\BDD.cs",
+              "RelativeDocumentMoniker": "BDD.cs",
+              "ToolTip": "C:\\TPGit\\demande_conge\\BDD.cs",
+              "RelativeToolTip": "BDD.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T13:47:33.221Z"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Form1.cs [Conception]",
-              "DocumentMoniker": "Z:\\sio2\\ap\\demande_conge\\Form1.cs",
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\TPGit\\demande_conge\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "Z:\\sio2\\ap\\demande_conge\\Form1.cs [Conception]",
+              "ToolTip": "C:\\TPGit\\demande_conge\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T09:20:33.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "demande_conge.csproj",
+              "DocumentMoniker": "C:\\TPGit\\demande_conge\\demande_conge.csproj",
+              "RelativeDocumentMoniker": "demande_conge.csproj",
+              "ToolTip": "C:\\TPGit\\demande_conge\\demande_conge.csproj",
+              "RelativeToolTip": "demande_conge.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-25T09:20:25.07Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\TPGit\\demande_conge\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\TPGit\\demande_conge\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T09:20:05.596Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Conception]",
+              "DocumentMoniker": "C:\\TPGit\\demande_conge\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\TPGit\\demande_conge\\Form1.cs [Conception]",
               "RelativeToolTip": "Form1.cs [Conception]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-16T06:36:02.048Z",
-              "EditorCaption": " [Conception]"
+              "WhenOpened": "2025-09-16T06:36:02.048Z"
             }
           ]
         }

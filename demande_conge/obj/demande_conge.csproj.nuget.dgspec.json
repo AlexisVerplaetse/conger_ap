@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "Z:\\sio2\\ap\\demande_conge\\demande_conge.csproj": {}
+    "C:\\TPGit\\demande_conge\\demande_conge.csproj": {}
   },
   "projects": {
-    "Z:\\sio2\\ap\\demande_conge\\demande_conge.csproj": {
+    "C:\\TPGit\\demande_conge\\demande_conge.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "Z:\\sio2\\ap\\demande_conge\\demande_conge.csproj",
+        "projectUniqueName": "C:\\TPGit\\demande_conge\\demande_conge.csproj",
         "projectName": "demande_conge",
-        "projectPath": "Z:\\sio2\\ap\\demande_conge\\demande_conge.csproj",
+        "projectPath": "C:\\TPGit\\demande_conge\\demande_conge.csproj",
         "packagesPath": "C:\\Users\\Wallon\\.nuget\\packages\\",
-        "outputPath": "Z:\\sio2\\ap\\demande_conge\\obj\\",
+        "outputPath": "C:\\TPGit\\demande_conge\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -49,6 +49,12 @@
       "frameworks": {
         "net8.0-windows7.0": {
           "targetAlias": "net8.0-windows",
+          "dependencies": {
+            "MySql.Data": {
+              "target": "Package",
+              "version": "[9.4.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
