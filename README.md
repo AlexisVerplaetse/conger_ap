@@ -10,7 +10,7 @@ cmd: cd //emplacement du dossier
 cmd : git init
 
 4-Ajouter les moddifications.
-cmd: git add . ou git add //dossier
+cmd: git add . ou : git add //dossier
 
 5-Ajouter un commantaire pour la modifications.
 cmd: git commit -m "//comentaire"
@@ -19,3 +19,13 @@ cmd: git commit -m "//comentaire"
 cmd: git push -u origin main
 
 autre:
+pour voir les branch : git branch
+
+Normalement les prochaines fois : git add . / git commit -m "Message" / git push
+
+Verfier le Depots : git remote -v 
+
+supprimer un dépots : gi remote remove origin 
+
+Ajouter un dépots : git remote add origin //lien https vers le github
+
