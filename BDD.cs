@@ -19,7 +19,6 @@ namespace demande_conge
 
         public MySqlConnection Connexion => connexion;
 
-        
 
         
     }

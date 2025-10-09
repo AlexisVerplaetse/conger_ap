@@ -1,5 +1,4 @@
 C:\TPGit\demande_conge\obj\Debug\net8.0-windows\demande_conge.csproj.AssemblyReference.cache
-C:\TPGit\demande_conge\obj\Debug\net8.0-windows\demande_conge.Form1.resources
 C:\TPGit\demande_conge\obj\Debug\net8.0-windows\demande_conge.csproj.GenerateResource.cache
 C:\TPGit\demande_conge\obj\Debug\net8.0-windows\demande_conge.GeneratedMSBuildEditorConfig.editorconfig
 C:\TPGit\demande_conge\obj\Debug\net8.0-windows\demande_conge.AssemblyInfoInputs.cache
@@ -33,3 +32,4 @@ C:\TPGit\demande_conge\obj\Debug\net8.0-windows\refint\demande_conge.dll
 C:\TPGit\demande_conge\obj\Debug\net8.0-windows\demande_conge.pdb
 C:\TPGit\demande_conge\obj\Debug\net8.0-windows\demande_conge.genruntimeconfig.cache
 C:\TPGit\demande_conge\obj\Debug\net8.0-windows\ref\demande_conge.dll
+C:\TPGit\demande_conge\obj\Debug\net8.0-windows\demande_conge.Connexion.resources
