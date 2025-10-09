@@ -29,3 +29,8 @@ supprimer un dépots : gi remote remove origin
 
 Ajouter un dépots : git remote add origin //lien https vers le github
 
+
+/Intégrer les changements du remote/
+récupéré le fichier : git pull origin main --rebase
+push les changement : git push -u origin main
+
