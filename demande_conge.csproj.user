@@ -4,5 +4,11 @@
     <Compile Update="Connexion.cs">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Update="demande_conge\Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="demande_conge.cs">
+      <SubType>Form</SubType>
+    </Compile>
   </ItemGroup>
 </Project>

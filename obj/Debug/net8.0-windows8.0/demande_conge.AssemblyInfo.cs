@@ -18,8 +18,8 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyProductAttribute("demande_conge")]
 [assembly: System.Reflection.AssemblyTitleAttribute("demande_conge")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
-[assembly: System.Runtime.Versioning.TargetPlatformAttribute("Windows7.0")]
-[assembly: System.Runtime.Versioning.SupportedOSPlatformAttribute("Windows7.0")]
+[assembly: System.Runtime.Versioning.TargetPlatformAttribute("Windows8.0")]
+[assembly: System.Runtime.Versioning.SupportedOSPlatformAttribute("Windows8.0")]
 
 // Généré par la classe MSBuild WriteCodeFragment.
 
