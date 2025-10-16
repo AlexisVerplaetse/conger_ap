@@ -51,11 +51,11 @@ namespace demande_conge
                 {
                     conn.Open();
 
-                    string query = "SELECT COUNT(*) FROM utilisateur WHERE nom = @nom AND mdp = @mdp";
+                    string query = "SELECT COUNT(*) FROM compte_praticien WHERE login = @login AND mdp = @mdp";
 
                     using (MySqlCommand cmd = new MySqlCommand(query, conn))
                     {
-                        cmd.Parameters.AddWithValue("@nom", user);
+                        cmd.Parameters.AddWithValue("@login", user);
                         cmd.Parameters.AddWithValue("@mdp", password);
 
                         int count = Convert.ToInt32(cmd.ExecuteScalar());
