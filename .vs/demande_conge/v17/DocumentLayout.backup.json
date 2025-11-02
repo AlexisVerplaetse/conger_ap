@@ -1,0 +1,150 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Enzo\\Downloads\\conger_ap-main\\conger_ap-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B75C9DFD-65B0-49A0-A0CD-C6B6FC7E9273}|demande_conge.csproj|c:\\users\\enzo\\downloads\\conger_ap-main\\conger_ap-main\\demande_conge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B75C9DFD-65B0-49A0-A0CD-C6B6FC7E9273}|demande_conge.csproj|solutionrelative:demande_conge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B75C9DFD-65B0-49A0-A0CD-C6B6FC7E9273}|demande_conge.csproj|C:\\Users\\Enzo\\Downloads\\conger_ap-main\\conger_ap-main\\demande_conge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B75C9DFD-65B0-49A0-A0CD-C6B6FC7E9273}|demande_conge.csproj|solutionrelative:demande_conge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B75C9DFD-65B0-49A0-A0CD-C6B6FC7E9273}|demande_conge.csproj|c:\\users\\enzo\\downloads\\conger_ap-main\\conger_ap-main\\connexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B75C9DFD-65B0-49A0-A0CD-C6B6FC7E9273}|demande_conge.csproj|solutionrelative:connexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B75C9DFD-65B0-49A0-A0CD-C6B6FC7E9273}|demande_conge.csproj|c:\\users\\enzo\\downloads\\conger_ap-main\\conger_ap-main\\demande_conge.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B75C9DFD-65B0-49A0-A0CD-C6B6FC7E9273}|demande_conge.csproj|solutionrelative:demande_conge.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B75C9DFD-65B0-49A0-A0CD-C6B6FC7E9273}|demande_conge.csproj|c:\\users\\enzo\\downloads\\conger_ap-main\\conger_ap-main\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B75C9DFD-65B0-49A0-A0CD-C6B6FC7E9273}|demande_conge.csproj|solutionrelative:admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B75C9DFD-65B0-49A0-A0CD-C6B6FC7E9273}|demande_conge.csproj|c:\\users\\enzo\\downloads\\conger_ap-main\\conger_ap-main\\bdd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B75C9DFD-65B0-49A0-A0CD-C6B6FC7E9273}|demande_conge.csproj|solutionrelative:bdd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B75C9DFD-65B0-49A0-A0CD-C6B6FC7E9273}|demande_conge.csproj|c:\\users\\enzo\\downloads\\conger_ap-main\\conger_ap-main\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B75C9DFD-65B0-49A0-A0CD-C6B6FC7E9273}|demande_conge.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B75C9DFD-65B0-49A0-A0CD-C6B6FC7E9273}|demande_conge.csproj|C:\\Users\\Enzo\\Downloads\\conger_ap-main\\conger_ap-main\\connexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B75C9DFD-65B0-49A0-A0CD-C6B6FC7E9273}|demande_conge.csproj|solutionrelative:connexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Admin.cs [Conception]",
+              "DocumentMoniker": "C:\\Users\\Enzo\\Downloads\\conger_ap-main\\conger_ap-main\\Admin.cs",
+              "RelativeDocumentMoniker": "Admin.cs",
+              "ToolTip": "C:\\Users\\Enzo\\Downloads\\conger_ap-main\\conger_ap-main\\Admin.cs [Conception]",
+              "RelativeToolTip": "Admin.cs [Conception]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T17:10:44.727Z",
+              "EditorCaption": " [Conception]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "demande_conge.cs",
+              "DocumentMoniker": "C:\\Users\\Enzo\\Downloads\\conger_ap-main\\conger_ap-main\\demande_conge.cs",
+              "RelativeDocumentMoniker": "demande_conge.cs",
+              "ToolTip": "C:\\Users\\Enzo\\Downloads\\conger_ap-main\\conger_ap-main\\demande_conge.cs",
+              "RelativeToolTip": "demande_conge.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAIwDIAAACLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T13:26:21.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Connexion.cs",
+              "DocumentMoniker": "C:\\Users\\Enzo\\Downloads\\conger_ap-main\\conger_ap-main\\Connexion.cs",
+              "RelativeDocumentMoniker": "Connexion.cs",
+              "ToolTip": "C:\\Users\\Enzo\\Downloads\\conger_ap-main\\conger_ap-main\\Connexion.cs",
+              "RelativeToolTip": "Connexion.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAuwEIAAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T08:52:54.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "demande_conge.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Enzo\\Downloads\\conger_ap-main\\conger_ap-main\\demande_conge.Designer.cs",
+              "RelativeDocumentMoniker": "demande_conge.Designer.cs",
+              "ToolTip": "C:\\Users\\Enzo\\Downloads\\conger_ap-main\\conger_ap-main\\demande_conge.Designer.cs",
+              "RelativeToolTip": "demande_conge.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T13:20:13.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "demande_conge.cs [Conception]",
+              "DocumentMoniker": "C:\\Users\\Enzo\\Downloads\\conger_ap-main\\conger_ap-main\\demande_conge.cs",
+              "RelativeDocumentMoniker": "demande_conge.cs",
+              "ToolTip": "C:\\Users\\Enzo\\Downloads\\conger_ap-main\\conger_ap-main\\demande_conge.cs [Conception]",
+              "RelativeToolTip": "demande_conge.cs [Conception]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T13:18:52.541Z",
+              "EditorCaption": " [Conception]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Connexion.cs [Conception]",
+              "DocumentMoniker": "C:\\Users\\Enzo\\Downloads\\conger_ap-main\\conger_ap-main\\Connexion.cs",
+              "RelativeDocumentMoniker": "Connexion.cs",
+              "ToolTip": "C:\\Users\\Wallon\\Downloads\\conger_ap\\Connexion.cs [Conception]",
+              "RelativeToolTip": "..\\..\\..\\..\\Wallon\\Downloads\\conger_ap\\Connexion.cs [Conception]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T08:48:32.753Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BDD.cs",
+              "DocumentMoniker": "C:\\Users\\Enzo\\Downloads\\conger_ap-main\\conger_ap-main\\BDD.cs",
+              "RelativeDocumentMoniker": "BDD.cs",
+              "ToolTip": "C:\\Users\\Enzo\\Downloads\\conger_ap-main\\conger_ap-main\\BDD.cs",
+              "RelativeToolTip": "BDD.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T13:47:33.221Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Enzo\\Downloads\\conger_ap-main\\conger_ap-main\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Enzo\\Downloads\\conger_ap-main\\conger_ap-main\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T09:20:05.596Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
